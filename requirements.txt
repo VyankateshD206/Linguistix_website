@@ -1,0 +1,18 @@
+setuptools>=65.5.0
+flask==2.0.1
+numpy==1.21.0
+https://download.pytorch.org/whl/cpu/torch-1.9.0%2Bcpu-cp39-cp39-linux_x86_64.whl; platform_system=="Linux"
+torch==1.9.0; platform_system!="Linux"
+librosa==0.8.1
+soundfile==0.10.3.post1
+werkzeug==2.0.1
+matplotlib==3.4.3
+scikit-learn==0.24.2
+scipy==1.7.0
+joblib==1.0.1
+numba==0.53.1
+audioread==2.1.9
+llvmlite==0.36.0
+pooch==1.4.0
+resampy==0.2.2
+gunicorn==20.1.0
