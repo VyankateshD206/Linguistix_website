@@ -6,3 +6,4 @@ librosa
 SoundFile
 matplotlib
 scikit-learn
+gunicorn==20.1.0
